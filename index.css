@@ -1,0 +1,6 @@
+h2, p		{text-align: center}
+button		{font-family: serif; font-size: 16px; background-color:#87cefa; border: none; color: black; padding: 10px 16px; 
+		text-align: center; text-decoration: none; display: inline-block;
+		 cursor: pointer; border-radius: 5px;}
+.imgcenter	{display: block; margin-left: auto; margin-right: auto; height: 350px; width: 70%}
+.center 	{padding-left: 42%}
